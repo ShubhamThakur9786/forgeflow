@@ -30,3 +30,6 @@ ForgeFlow is being built as a full-stack learning and portfolio project focused 
 - Dockerization
 - Deployment
 - Monitoring
+
+
+.\.venv\Scripts\Activate.ps1
